@@ -16,5 +16,3 @@ Test remoto
 ### Tercer mod
 Tercera modificacio
 
-### Tercer mod
-Tercera modificacionn
